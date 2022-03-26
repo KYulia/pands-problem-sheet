@@ -1,6 +1,5 @@
-#My solution to weekly task 02
+#My solution: to weekly task2 written by Yulia Kiriy
 #Code to calculate bmi
-#Written by Yulia Kiriy
 
 #REFERENCE: Formula for BMI was obtained at https://bmi-calculator.io/bmi-calculation-formula
 
